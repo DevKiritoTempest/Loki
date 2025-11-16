@@ -1,3 +1,8 @@
-export default function Home() {
-  return <h1>Loki AI funcionando</h1>;
+export default function Page() {
+  return (
+    <div>
+      <h1>Loki Aurix funcionando!</h1>
+      <p>Seu agente IA está online.</p>
+    </div>
+  );
 }
